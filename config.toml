@@ -27,7 +27,7 @@ disableLanguages        = []
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  socialShare           = ["twitter", "facebook", "reddit", "pinterest", "email"]
   hideEmptyStats        = false
 
   [params.meta]
@@ -40,15 +40,15 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Such Adventure."
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Such adventure!"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "such adventure. much fun."
+    paragraph             = "A guide to Raleigh fun stuff with kids, and surrounding areas."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
