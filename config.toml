@@ -3,7 +3,7 @@
 baseurl                 = "https://suchadventure.com/"
 DefaultContentLanguage  = "en"
 title                   = "Such Adventure"
-theme                   = " "
+theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
