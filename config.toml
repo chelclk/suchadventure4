@@ -3,7 +3,7 @@
 baseurl                 = "https://suchadventure.com/"
 DefaultContentLanguage  = "en"
 title                   = "Such Adventure"
-theme                   = "hugo-future-imperfect-slim"
+theme                   = " "
 paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
@@ -27,12 +27,12 @@ disableLanguages        = []
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  socialShare           = ["twitter", "facebook", "reddit", "pinterest", "email"]
+  socialShare           = ["twitter", "facebook", "reddit", "instagram", "pinterest", "email"]
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
-    author              = "HTML5UP and Hugo"
+    description         = "A guide to Raleigh fun stuff with kids, and surrounding areas."
+    author              = "Chelsea Kendall"
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
@@ -61,7 +61,7 @@ disableLanguages        = []
       alt                 = ""
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    about               = "Adventures with the kids, reviewed and mapped to save you time."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
