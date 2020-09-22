@@ -12,8 +12,8 @@ Gave it a 2 because of the hills leading up to the crossing streets and that las
 
 Features:
 
-- Playground (Closed COVID)
-- Bathrooms (Open despite COVID)
+- Playground (OPEN COVID)
+- Bathrooms
 - Lake view
 - Creek view
 - Covered picnic tables
